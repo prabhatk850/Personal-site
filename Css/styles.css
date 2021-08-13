@@ -1,0 +1,42 @@
+body {
+  background-color: powderblue;
+  text-align: center;
+  font-family: Tahoma, sans-serif;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+.middle-container{
+
+}
+.bottom-container{
+
+}
+img{
+  height: 100px;
+  width: 100px;
+}
+.mountain{
+  height: auto;
+  width: auto;
+  align-items: center;
+}
+.top
+{
+  height: 130px;
+  width: 250px;
+  margin-left: 350px;
+  padding: 20px;
+}
+.bottom{
+  height: 130px;
+  width: 250px;
+  margin-left: 30px;
+  position: absolute;
+}
